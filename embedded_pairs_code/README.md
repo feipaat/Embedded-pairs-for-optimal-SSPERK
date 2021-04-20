@@ -1,4 +1,6 @@
-Code for the numerical results
+Code for the numerical results 
+==========================
+
 
 Reproducing Work-Precision figure
 ----------------------------------
