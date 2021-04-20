@@ -1,6 +1,3 @@
-Explicit SSP Embedded Pair
-==========================
-
 Code for the numerical results
 
 Reproducing Work-Precision figure
